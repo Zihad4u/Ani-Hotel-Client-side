@@ -19,12 +19,12 @@ To get started with development, follow these steps:
 2. **Run the development server**: `npm start`
 3. **Build for production**: `npm run build`
 
-## Contributing
+## Tecnology that i use on this project:
 
-We welcome contributions from the community! Please read our Findr(CONTRIBUTING.md) to get started. 
+
         
 
-Tecnology that i use on this project:
+
 - React
 - Tailwind
 - firebase
