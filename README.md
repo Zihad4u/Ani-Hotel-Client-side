@@ -10,6 +10,20 @@ Experience seamless hotel booking like never before with Ani hotel. Start planni
 
 
 Live Link:https://assignment-11-de23c.web.app
+Server-side repo:
+## Getting Started
+
+To get started with development, follow these steps:
+
+1. **Install dependencies**: `npm install`
+2. **Run the development server**: `npm start`
+3. **Build for production**: `npm run build`
+
+## Contributing
+
+We welcome contributions from the community! Please read our Findr(CONTRIBUTING.md) to get started. 
+        
+
 
 
 
