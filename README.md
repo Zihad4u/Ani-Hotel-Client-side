@@ -10,7 +10,7 @@ Experience seamless hotel booking like never before with Ani hotel. Start planni
 
 
 Live Link:https://assignment-11-de23c.web.app
-Server-side repo:
+Server-side repo:https://github.com/Zihad4u/Ani-Hotel-Server-Side
 ## Getting Started
 
 To get started with development, follow these steps:
